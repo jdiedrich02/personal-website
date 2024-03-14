@@ -33,7 +33,12 @@ const imageData = [
         imageUrl: '../images/OrionEdited.jpg',
         title: 'Orion Nebula',
         description: 'One of the most popular Nebulas in the sky! This is located in the Orion constellation and is located around 1350 light years from Earth! This objects is actually visible with the naked eye! It has a diameter of around 24 light years!'
-    }
+    },
+    {
+        imageUrl: '../images/M51.jpg',
+        title: 'M51 - Whirlpool Galaxy',
+        description: 'Another one of my galaxy shots! Here we have M51! This was acctually the first galaxy to be classfied as spiral! This galaxy is located about 31 million light years from Earth! This means we are seeing it as it was 31 million years ago! It contains around 100 billion stars and its diameter is around 60,000 light years!'
+    },
 ];
 
 function createCards() {
