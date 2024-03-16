@@ -46,4 +46,8 @@ h1 {
     .navbar-title {
         display: none;
     }
+
+    .navbar {
+        justify-content: center;
+    }
 }

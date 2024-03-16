@@ -72,4 +72,8 @@ body {
     .data {
         width: auto;
     }
+
+    .navbar {
+        justify-content: center;
+    }
 }
