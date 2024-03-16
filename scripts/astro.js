@@ -7,7 +7,7 @@ const imageData = [
     {
         imageUrl: '../images/CrabNebula.jpg',
         title: 'M1 - Crab Nebula',
-        description: 'Located in the constellation Taurus, we have the Crab Nebula! This nebula is located around 6500 light years from Earth. This is a supernova remnant that was acctually seen by astronomers around 1000 years ago!'
+        description: 'Located in the constellation Taurus, we have the Crab Nebula! This nebula is located around 6500 light years from Earth. This is a supernova remnant that was actually seen by astronomers around 1000 years ago!'
     },
     {
         imageUrl: '../images/M33 Post Again.jpg',
