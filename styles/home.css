@@ -12,8 +12,9 @@ body {
     width: 20%;
     top: 20px;
     padding: 20px;
-    background-color: #f0f0f0;
+    background-color: #C0C0C0;
     margin-right: 3%;
+    height: 200px;
 }
 
 #mainContent {
@@ -28,10 +29,6 @@ body {
     text-decoration: none;
     color: #333;
     text-align: center;
-}
-
-#sideBar a.active {
-    font-weight: bold;
 }
 
 #aboutContainer {
