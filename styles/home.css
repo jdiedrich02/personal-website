@@ -50,6 +50,11 @@ body {
     text-align: center;
 }
 
+#portrait {
+    width: 500px;
+    height: 500px;
+}
+
 @media screen and (max-width: 800px){
     #sidebar {
         display: none;
@@ -62,6 +67,20 @@ body {
     #allContainer {
         margin-left: 10px;
     }
+
+    .navbar {
+        justify-content: center;
+    }
+
+    #portrait {
+        max-width: 100%;
+        height: auto;
+        width: auto\9;
+    }
+
+    #aboutContainer {
+        height: auto;
+    }
 }
 
 @media screen and (max-width: 1400px) {
@@ -71,9 +90,5 @@ body {
 
     .data {
         width: auto;
-    }
-
-    .navbar {
-        justify-content: center;
     }
 }
