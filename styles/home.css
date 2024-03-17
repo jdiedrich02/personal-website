@@ -52,6 +52,16 @@ body {
     height: 500px;
 }
 
+.list-container {
+    display: flex;
+    width: 50%;
+}
+
+.list-container ul {
+    width: 50%;
+    list-style-position: inside;
+}
+
 @media screen and (max-width: 800px){
     #sidebar {
         display: none;
@@ -86,6 +96,11 @@ body {
     }
 
     .data {
+        width: auto;
+    }
+
+    .list-container {
+        flex-direction: column;
         width: auto;
     }
 }
