@@ -39,6 +39,11 @@ const imageData = [
         title: 'M51 - Whirlpool Galaxy',
         description: 'Another one of my galaxy shots! Here we have M51! This was actually the first galaxy to be classfied as spiral! This galaxy is located about 31 million light years from Earth! This means we are seeing it as it was 31 million years ago! It contains around 100 billion stars and its diameter is around 60,000 light years!'
     },
+    {
+        imageUrl: './images/m44.png',
+        title: 'M44 - Star Cluster',
+        description: 'Here is the M44 star cluster, also known as the beehive cluster! This is a open cluster in the constellation Cancer! This open cluster is one of the nearest to Earth located around 577 light years away and is about 7.5 light years long. It contains around 1000 stars but the ones to notice are the blue and orange ones! This is a big brighter since this was shot during a full moon.'
+    }
 ];
 
 function createCards() {
