@@ -87,6 +87,12 @@ body {
 
     #aboutContainer {
         height: auto;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .sub-section {
+        margin-right: None;
     }
 }
 
@@ -103,4 +109,8 @@ body {
         flex-direction: column;
         width: auto;
     }
+}
+
+.sub-section {
+    margin-right: 10%;
 }
