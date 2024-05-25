@@ -43,6 +43,26 @@ const imageData = [
         imageUrl: './images/m44.png',
         title: 'M44 - Star Cluster',
         description: 'Here is the M44 star cluster, also known as the beehive cluster! This is a open cluster in the constellation Cancer! This open cluster is one of the nearest to Earth located around 577 light years away and is about 7.5 light years long. It contains around 1000 stars but the ones to notice are the blue and orange ones! This is a big brighter since this was shot during a full moon.'
+    },
+    {
+        imageUrl: './images/M3.jpg',
+        title: 'M3 - Star Cluster',
+        description: 'Messier 3 is a globular cluster of stars in the northern constellation of Canes Venatici. This star clusters radius spans about 90 light years long! It lies around 33,000 light years from Earth. This star cluster holds more than 500,000 stars like our own sun! Crazy!'
+    },
+    {
+        imageUrl: './images/M13.jpg',
+        title: 'M13 - Star Cluster',
+        description: 'This is a globular cluster of stars in the constellation of Hercules. It lies around 25,000 light years from Earth and houses around 100,000 stars!'
+    },
+    {
+        imageUrl: './images/procyon.jpg',
+        title: 'Procyon Star',
+        description: 'Procyon is the brightest star in the constellation of Canis Minor and usually the eighth-brightest star in the night sky! This star lies around 11 light years from Earth, which is close relatively speaking! '
+    },
+    {
+        imageUrl: './images/markarians_chain.jpg',
+        title: 'Markarians Chain (Galaxies!)',
+        description: 'Markarians Chain is a stretch of galaxies that forms part of the Virgo Cluster. In this photo, we cannot see the entire chain, but we can see some of the main galaxies including M84, and M86!'
     }
 ];
 
