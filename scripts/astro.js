@@ -63,6 +63,16 @@ const imageData = [
         imageUrl: './images/markarians_chain.jpg',
         title: 'Markarians Chain (Galaxies!)',
         description: 'Markarians Chain is a stretch of galaxies that forms part of the Virgo Cluster. In this photo, we cannot see the entire chain, but we can see some of the main galaxies including M84, and M86!'
+    },
+    {
+        imageUrl: './images/M39.jpg',
+        title: 'M39 Cluster',
+        description: ''
+    },
+    {
+        imageUrl: './images/M31.png',
+        title: 'M31 - Andromeda Galaxy',
+        description: ''
     }
 ];
 
